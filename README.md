@@ -1,2 +1,25 @@
 # pega-gif
-Aplicativo para procurar gifs
+Aplicativo para estudo, com o intuido de procurar Gifs e compartilha-los em redes sociais e outros.
+
+
+Tela inicial
+
+ 
+
+	Na tela inicial a aplicativo iniciará com com os 20 Gifs mais pesquisados no banco de dados do Giphy. Ao fazer uma pesquisa, o sistema irá retornar 20 gifs e a opção de acessar a pagina seguinte da pesquisa.
+
+ 
+
+	Ao Clicar em um gif abrirá uma janela com o gif e um botão para compartilhar.
+
+
+  
+
+Ao clicar no botão do drawer, aparecerá um container com todas as pesquisas feitas, o usuario terá a opção de ciclar e fazer a pesquisa do mesmo ou apaga-lo.
+ 
+ 
+
+
+
+
+
